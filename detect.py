@@ -1,10 +1,9 @@
 img_url = "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-api_key = "AIzaSyAplyfgUTOS7ODQfT-8AQq0rL8BIuJnTMo"
 img_url = "https://avatars3.githubusercontent.com/u/10094074?s=460&v=4"
 # img_url = "https://expandyourpossibilities.files.wordpress.com/2015/07/emotions-faces.jpg"
-img_url = "https://imgflip.com/s/meme/Distracted-Boyfriend.jpg"
+# img_url = "https://imgflip.com/s/meme/Distracted-Boyfriend.jpg"
 # img_url = "https://i.cbc.ca/1.3731271.1471893597!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/437333815.jpg"
-# img_url = "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/02/26/15/friends-30-5.jpg"
+img_url = "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/02/26/15/friends-30-5.jpg"
 
 from google.cloud import vision
 import json
