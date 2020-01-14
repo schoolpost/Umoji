@@ -1,4 +1,4 @@
-![](docs/logo.png)
+![](docs/logo.PNG)
 
 Umoji is a web application that detects / analyzes faces in an image and places the corresponding emoji onto those faces. 
 
