@@ -131,5 +131,8 @@ dmypy.json
 *.json
 .json
 
+/images
+images/
+
 # Pyre type checker
 .pyre/
